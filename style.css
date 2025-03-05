@@ -155,7 +155,7 @@ button:hover {
   top: 0;
   transform: translateX(-50%);
   width: 100%;
-  height: 100%;
+  height: 95%;
   filter: blur(0.1vmin);
   background-image: radial-gradient(
       ellipse at top,
