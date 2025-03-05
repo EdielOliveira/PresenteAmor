@@ -152,10 +152,10 @@ button:hover {
 .night {
   position: fixed;
   left: 50%;
-  top: 0;
+  top: 0px;
   transform: translateX(-50%);
   width: 100%;
-  height: 95%;
+  height: 100%;
   filter: blur(0.1vmin);
   background-image: radial-gradient(
       ellipse at top,
@@ -194,6 +194,7 @@ button:hover {
 .flowers {
   position: relative;
   transform: scale(0.9);
+  bottom: 30vmin;
 }
 
 .flower {
